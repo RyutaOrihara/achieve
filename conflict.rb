@@ -1,2 +1,2 @@
-puts("aaa")
+puts("AAA")
 
