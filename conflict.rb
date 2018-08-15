@@ -1,2 +1,1 @@
-puts("AAA")
-
+puts("X")
